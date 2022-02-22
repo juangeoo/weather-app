@@ -40,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "ghpages": "^0.0.10",
     "mini-css-extract-plugin": "2.4.5"
   }
 }
